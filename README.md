@@ -7,7 +7,7 @@ This is my solutions page for the [#8WeekSQLChallenge](https://8weeksqlchallenge
 
 ### Table of Contents
 
-- Case Stude #1: Danny's Diner
+- [Case Stude #1: Danny's Diner](https://github.com/jef-fortunahamid/CaseStudy1_DannysDiner/blob/main/README.md)
 - Case Stude #2: Pizza Runner
 - Case Stude #3: Foodie-Fi
 - Case Stude #4: Data Bank
