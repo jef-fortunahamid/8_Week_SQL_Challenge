@@ -1,3 +1,6 @@
+![Screenshot 2023-08-13 at 9 47 07 pm](https://github.com/jef-fortunahamid/8_Week_SQL_Challenge/assets/125134025/b5557fe0-4d98-4c6c-b0e1-c0a515cca883)
+
+
 # 8 Week SQL Challenge
 
 This is my solutions page for the [#8WeekSQLChallenge](https://8weeksqlchallenge.com/).
