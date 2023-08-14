@@ -3,7 +3,7 @@
 
 # 8 Week SQL Challenge
 
-This page provides solutions for the eight case studies included in the [#8WeekSQLChallenge](https://8weeksqlchallenge.com/).
+This page offers answers for the eight case studies included in the [#8WeekSQLChallenge](https://8weeksqlchallenge.com/). All Serious SQL case studies utilised the original Docker-based PostgreSQL setup as their SQL environment.
 
 The 8 Week SQL Challenge from Data With Danny, is a series of eight realisitic scenarios on solving business problems and answering questions with data through SQL.
 
