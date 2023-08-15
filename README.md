@@ -12,7 +12,7 @@ This course and the 8 Week SQL challenge helped me build a solid base of SQL kno
 
 - [Case Stude #1: Danny's Diner](https://github.com/jef-fortunahamid/CaseStudy1_DannysDiner/blob/main/README.md)
 - [Case Stude #2: Pizza Runner](https://github.com/jef-fortunahamid/CaseStudy2_PizzaRunner/blob/main/README.md)
-- Case Stude #3: Foodie-Fi
+- [Case Stude #3: Foodie-Fi](https://github.com/jef-fortunahamid/CaseStudy3_FoodieFi/blob/main/README.md)
 - Case Stude #4: Data Bank
 - Case Stude #5: Data Mart
 - Case Stude #6: Clique Bait
