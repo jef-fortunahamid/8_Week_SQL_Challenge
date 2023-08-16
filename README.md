@@ -17,7 +17,7 @@ This course and the 8 Week SQL challenge helped me build a solid base of SQL kno
 - [Case Stude #5: Data Mart](https://github.com/jef-fortunahamid/CaseStudy5_DataMart/blob/main/README.md)
 - [Case Stude #6: Clique Bait](https://github.com/jef-fortunahamid/CaseStudy6_CliqueBait/blob/main/README.md)
 - [Case Stude #7: Balanced Tree](https://github.com/jef-fortunahamid/CaseStudy7_BalancedTree/blob/main/README.md)
-- Case Stude #8: Fresh Segments
+- [Case Stude #8: Fresh Segments](https://github.com/jef-fortunahamid/CaseStudy8_FreshSegments/blob/main/README.md)
 
 ### Note:
 Please feel free to reach out to me if you have any questions. I will gladly support and provide any quidance. Looking forward to hearing from any one.
