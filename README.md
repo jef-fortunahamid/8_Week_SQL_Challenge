@@ -6,7 +6,7 @@ This page offers answers for the eight case studies included in the [#8WeekSQLCh
 
 The 8 Week SQL Challenge from Data With Danny, is a series of eight realisitic scenarios on solving business problems and answering questions with data through SQL.
 
-This course and the 8 Week SQL challenge helped me build a solid base of SQL knowledge. Many thanks to [Data with Danny](https://www.linkedin.com/company/datawithdanny/) for crafting such insightful anbd engaging SQL case studies.
+This course and the 8 Week SQL challenge helped me build a solid base of SQL knowledge. Many thanks to [Data with Danny](https://www.linkedin.com/company/datawithdanny/) for crafting such insightful and engaging SQL case studies.
 
 ### Table of Contents
 
